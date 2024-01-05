@@ -9,7 +9,7 @@ To execute the scraper, follow these steps:
 1. Ensure you have Docker installed on your machine.
 2. Clone this repository.
 3. Navigate to the root directory of the repository.
-4. Use the command `docker-compose up` to build the scraper.
+4. Use the command `docker-compose up` to run the scraper.
 
 Upon successful execution, you can view the results by accessing `127.0.0.1:8080` in your web browser.
 
